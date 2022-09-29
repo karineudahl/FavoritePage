@@ -13,10 +13,4 @@ Strapi API is not publicly hosted (https://github.com/NoroffFEU/strapi-js2-ca)
  - Login form that will allow a logged in admin user to perform the following tasks: Adding new resources to the API, Updating resources through an edit form, Deleting resources
 
 # To start the Strapi project:
-1. npm install
-2. npm run develop
-
-Login details:
-- Username: admin@admin.com
-- Password: Pass1234
-- There is one content type in the project, accessible at http://localhost:1337/articles.
+https://github.com/NoroffFEU/strapi-js2-ca
