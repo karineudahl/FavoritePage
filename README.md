@@ -18,3 +18,13 @@
 
 # To start the Strapi project
 https://github.com/NoroffFEU/strapi-js2-ca
+
+# Getting started 
+## Installing
+1. Clone the repo
+```
+gh repo clone karineudahl/FavoritePage
+```
+
+### Running 
+To run the app, right click on one HTML file and "Open with Live Server"
