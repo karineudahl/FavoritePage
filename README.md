@@ -11,5 +11,5 @@
 - Favourites page: This page should fetch the array of items stored in localStorage and display them or display a message that there are no items. There should be a “Clear all” button that clears localStorage (or just a specific key in localStorage) and reloads the display. Don’t reload the page, just redraw the HTML.
  - Login form that will allow a logged in admin user to perform the following tasks: Adding new resources to the API, Updating resources through an edit form, Deleting resources
 
-# To start the Strapi project:
+# To start the Strapi project
 https://github.com/NoroffFEU/strapi-js2-ca
