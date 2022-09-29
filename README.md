@@ -1,8 +1,7 @@
 # FavouritePage (JavaScript assigment at Noroff)
+- With loginform to add, update and delete products from Strapi API 
 
-with loginform to add, update and delete products from Strapi API 
-
-Strapi API is not publicly hosted (https://github.com/NoroffFEU/strapi-js2-ca) 
+<img width="960" alt="Screenshot 2022-09-29 at 10 08 37" src="https://user-images.githubusercontent.com/74554925/192976706-97db3407-e2e2-4db3-833b-61b1f4ecc5f6.png">
 
 # Description
 - GET request to fetch a list of resources from your API. 
